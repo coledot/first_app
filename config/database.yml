@@ -23,3 +23,24 @@ production:
   database: db/production.sqlite3
   pool: 5
   timeout: 5000
+
+#development:
+#  adapter: postgresql
+#  database: first_app_dev
+#  username: rails
+#  password: RoR7u70r3
+#  host: localhost
+#
+#test:
+#  adapter: postgresql
+#  database: first_app_test
+#  username: rails
+#  password: RoR7u70r3
+#  host: localhost
+#
+#production:
+#  adapter: postgresql
+#  database: first_app_prod
+#  username: rails
+#  password: RoR7u70r3
+#  host: localhost
