@@ -4,6 +4,7 @@ gem 'rails', '3.2.5'
 gem 'bootstrap-sass', '2.0.0'
 # FIXME? 2.0.0 doesn't exist anymore for some reason???
 gem 'jquery-rails'#, '2.0.0'
+gem 'bcrypt-ruby', '3.0.1'
 
 group :development do
   gem 'annotate', '~> 2.4.1.beta'
